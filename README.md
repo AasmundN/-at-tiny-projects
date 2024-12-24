@@ -4,5 +4,5 @@ A collection of (at)tiny projects exploring the features of the ATtiny15L microc
 
 ## How to...
 
-Build and flash the projects to the MCU using _avr-gcc_ and my own [attiny isp](https://github.com/AasmundN/attiny-isp)
+Build and flash the projects to the MCU using _avr-gcc_ and my own [attiny isp](https://github.com/AasmundN/attiny-isp).
 
